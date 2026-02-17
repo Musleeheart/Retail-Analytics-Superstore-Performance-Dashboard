@@ -2,7 +2,9 @@
 
 ## Project Description
 #### This project presents a comprehensive HR Analytics Dashboard designed to provide actionable insights into workforce demographics, employee satisfaction, compensation, and attrition trends. Built with Power BI, the dashboard enables HR professionals and organizational leaders to explore key metrics such as employee distribution by department, gender, and job role, average income levels, satisfaction scores, and attrition rates across job levels. By combining interactive filters and dynamic visualizations, the dashboard helps uncover patterns in employee behavior and organizational performance. These insights support data-driven decision-making, allowing HR teams to identify areas of concern, improve employee retention strategies, and enhance overall workforce management.
-![Uploading WhatsApp Image 2026-02-16 at 8.55.03 PM.jpeg…]()
+
+![WhatsApp Image 2026-02-16 at 8 55 03 PM](https://github.com/user-attachments/assets/7a99341a-27cf-4382-8cd7-759c64924fdc)
+
 
 ## Aim
 #### To design a comprehensive HR Analytics Dashboard that provides actionable insights into workforce demographics, employee satisfaction, compensation, and attrition trends. The dashboard empowers HR professionals and organizational leaders to make data-driven decisions that improve employee retention, optimize workforce management, and enhance overall organizational performance.
